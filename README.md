@@ -1,7 +1,7 @@
 # Question Value Estimation (QVE)
 
 ## Introduction
-This repository provides code for the ACL2022 paper "[Synthetic Question Value Estimation for Domain Adaptation of Question Answering](https://arxiv.org/abs/2005.00574)"
+This repository provides code for the ACL2022 paper "[Synthetic Question Value Estimation for Domain Adaptation of Question Answering](.)"
 
 ```bib
 @inproceedings{yue2022qve,
